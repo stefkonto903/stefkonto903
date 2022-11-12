@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Stefanos Kontopoulos
+<!---
 - 🌱 I’m currently studying ECE@NTUA
 - 👀 I’m interested in blockchain, AMM apps, auto trading, forecasting etc
+--->
 
 
 <!---
