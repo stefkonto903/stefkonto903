@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Stefanos!<br>🎓 I have an M.Eng. in Electrical & Computer Engineering from the National Technical University of Athens.<br>🔭 I’m currently studying for my master's in Quantitative Management of Actuarial and Financial Risk.<br>⚡ I'm interested in learning about financial modelling, derivatives pricing, forecasting and algorithmic trading.
+👋 Hi, I'm Stefanos!<br>🎓 I have an M.Eng. in Electrical & Computer Engineering from the National Technical University of Athens.<br>🔭 I’m currently studying for my master's in Quantitative Management of Actuarial and Financial Risk.<br>⚡ I'm interested in financial modelling, derivatives pricing, forecasting and algorithmic trading.
 
 
 # 💻 Tech Stack:
